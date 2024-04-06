@@ -47,4 +47,7 @@ Escribimos el siguiente código en la terminal gcc hola_mundo.c -o hola_mundo
 
 Ahora podemos ejecutar el código desde la consola de ubuntu utilizando ./hola_mundo
 
+Captura de pantalla:
+
+![image](https://github.com/Juzarx/Hola-mundo-linux/assets/166193236/08761f2d-e194-486b-9b00-edacb4699bef)
 
